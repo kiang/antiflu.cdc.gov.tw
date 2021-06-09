@@ -1,0 +1,37 @@
+[
+    {
+        "Id": 31,
+        "HospitalId": "0190030516",
+        "HospitalName": "衛生福利部金門醫院",
+        "City": "金門縣",
+        "Dist": "金湖鎮",
+        "ZipCode": null,
+        "Address": "金門縣金湖鎮復興路2號、烈嶼鄉上林村后井37號（烈嶼院區）",
+        "Phone": "082-332546",
+        "Lat": 24.440588,
+        "Long": 118.418001,
+        "Note": null,
+        "InfoWindowMessage": null,
+        "Vaccines": [
+            {
+                "VaccID": "AstraZeneca",
+                "Name": "AstraZeneca",
+                "VaccInventory": 0,
+                "StockLevel": null,
+                "StockStatus": 0,
+                "IsActiveNum": false,
+                "ControlVaccInventory": null,
+                "Expense": 0,
+                "Department": "COVID-19疫苗專診",
+                "AppointmentPhone": null,
+                "Day1": 0,
+                "Day2": 0,
+                "Day3": 4,
+                "Day4": 0,
+                "Day5": 4,
+                "Day6": 0,
+                "Day7": 0
+            }
+        ]
+    }
+]

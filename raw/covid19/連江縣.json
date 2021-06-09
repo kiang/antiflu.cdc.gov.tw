@@ -1,0 +1,37 @@
+[
+    {
+        "Id": 32,
+        "HospitalId": "0291010010",
+        "HospitalName": "連江縣立醫院",
+        "City": "連江縣",
+        "Dist": "南竿鄉",
+        "ZipCode": null,
+        "Address": "連江縣南竿鄉復興村217號",
+        "Phone": "083-623995",
+        "Lat": 26.160844,
+        "Long": 119.949168,
+        "Note": null,
+        "InfoWindowMessage": null,
+        "Vaccines": [
+            {
+                "VaccID": "AstraZeneca",
+                "Name": "AstraZeneca",
+                "VaccInventory": 0,
+                "StockLevel": null,
+                "StockStatus": 0,
+                "IsActiveNum": false,
+                "ControlVaccInventory": null,
+                "Expense": 0,
+                "Department": "新冠疫苗門診",
+                "AppointmentPhone": null,
+                "Day1": 0,
+                "Day2": 0,
+                "Day3": 0,
+                "Day4": 2,
+                "Day5": 0,
+                "Day6": 0,
+                "Day7": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "Id": 9,
+        "HospitalId": "0111070010",
+        "HospitalName": "衛生福利部基隆醫院",
+        "City": "基隆市",
+        "Dist": "信義區",
+        "ZipCode": null,
+        "Address": "基隆市信義區信二路268號",
+        "Phone": "02-24292525",
+        "Lat": 25.130455,
+        "Long": 121.748322,
+        "Note": null,
+        "InfoWindowMessage": null,
+        "Vaccines": [
+            {
+                "VaccID": "AstraZeneca",
+                "Name": "AstraZeneca",
+                "VaccInventory": 0,
+                "StockLevel": null,
+                "StockStatus": 0,
+                "IsActiveNum": false,
+                "ControlVaccInventory": null,
+                "Expense": 0,
+                "Department": "COVID19疫苗",
+                "AppointmentPhone": null,
+                "Day1": 2,
+                "Day2": 2,
+                "Day3": 2,
+                "Day4": 2,
+                "Day5": 2,
+                "Day6": 0,
+                "Day7": 0
+            }
+        ]
+    },
+    {
+        "Id": 44,
+        "HospitalId": "0511040010",
+        "HospitalName": "三軍總醫院附設基隆民眾診療服務處",
+        "City": "基隆市",
+        "Dist": "仁愛區",
+        "ZipCode": null,
+        "Address": "基隆市中正區正榮街100號，仁愛區孝二路39號2樓",
+        "Phone": "02-24633330",
+        "Lat": 25.144665,
+        "Long": 121.762932,
+        "Note": null,
+        "InfoWindowMessage": null,
+        "Vaccines": [
+            {
+                "VaccID": "AstraZeneca",
+                "Name": "AstraZeneca",
+                "VaccInventory": 0,
+                "StockLevel": null,
+                "StockStatus": 0,
+                "IsActiveNum": false,
+                "ControlVaccInventory": null,
+                "Expense": 0,
+                "Department": "COVID19疫苗門診",
+                "AppointmentPhone": null,
+                "Day1": 4,
+                "Day2": 2,
+                "Day3": 4,
+                "Day4": 2,
+                "Day5": 4,
+                "Day6": 0,
+                "Day7": 0
+            }
+        ]
+    },
+    {
+        "Id": 98,
+        "HospitalId": "1111060015",
+        "HospitalName": "長庚醫療財團法人基隆長庚紀念醫院",
+        "City": "基隆市",
+        "Dist": "安樂區",
+        "ZipCode": null,
+        "Address": "基隆市安樂區麥金路222號、基隆市麥金路201號",
+        "Phone": "02-24313131",
+        "Lat": 25.120882,
+        "Long": 121.722368,
+        "Note": null,
+        "InfoWindowMessage": null,
+        "Vaccines": [
+            {
+                "VaccID": "AstraZeneca",
+                "Name": "AstraZeneca",
+                "VaccInventory": 0,
+                "StockLevel": null,
+                "StockStatus": 0,
+                "IsActiveNum": false,
+                "ControlVaccInventory": null,
+                "Expense": 0,
+                "Department": "新冠疫苗接種",
+                "AppointmentPhone": null,
+                "Day1": 0,
+                "Day2": 4,
+                "Day3": 0,
+                "Day4": 4,
+                "Day5": 0,
+                "Day6": 0,
+                "Day7": 0
+            }
+        ]
+    }
+]
